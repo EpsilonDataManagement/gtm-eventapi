@@ -15,5 +15,5 @@
 homepage: "https://www.epsilon.com"
 documentation: "https://www.epsilon.com"
 versions:
-  - sha: ed95d218d9fb68e6b0a3256e7e58c2c86224fba7
+  - sha: f395cbdd6d908d727372bf20216dcf477d7c888a
     changeNotes: Initial Version
